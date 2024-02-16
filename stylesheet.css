@@ -1,0 +1,20 @@
+.main{
+	background-image: url(https://img.freepik.com/free-vector/watercolor-background_87374-71.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.header{
+	font-family: Times New Roman;
+	font-size: 60px;	
+}
+
+th {
+	font-family: varela round;
+	font-size: 25px;
+}
+
+p, li, .footer {
+	font-family: Ariel;
+	font-size: 50px;
+}
